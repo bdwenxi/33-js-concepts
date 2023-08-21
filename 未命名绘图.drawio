@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-20T10:09:00.279Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ixyx2eliEVVbfgt7iXrB" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-21T03:55:42.729Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="U3R4JQbMafzEH85EYYdX" version="21.6.5" type="github">
   <diagram name="第 1 页" id="qKErFhmY3Q2mRKthfpYj">
-    <mxGraphModel dx="2261" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="1991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,28 +68,132 @@
           <mxGeometry x="70" y="180" width="280" height="290" as="geometry" />
         </mxCell>
         <mxCell id="tGpsYCDtD877dLudMEN8-25" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;View&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="75" y="21" width="60" height="30" as="geometry" />
+          <mxGeometry x="70" y="21" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tGpsYCDtD877dLudMEN8-26" value="&lt;b&gt;Canvas-Dom&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tGpsYCDtD877dLudMEN8-26" value="&lt;b&gt;Canvas-Dom&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="80" y="51.5" width="130" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="tGpsYCDtD877dLudMEN8-27" value="&lt;b&gt;Svg-Dom&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tGpsYCDtD877dLudMEN8-27" value="&lt;b&gt;Svg-Dom&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="220" y="51" width="120" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="tGpsYCDtD877dLudMEN8-28" value="&lt;b&gt;TextLayer-Dom&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tGpsYCDtD877dLudMEN8-28" value="&lt;b&gt;TextLayer-Dom&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="80" y="91" width="130" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="tGpsYCDtD877dLudMEN8-29" value="&lt;b&gt;AnnoLayer-Dom&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tGpsYCDtD877dLudMEN8-29" value="&lt;b&gt;AnnoLayer-Dom&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="220" y="91" width="120" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="tGpsYCDtD877dLudMEN8-30" value="&lt;b&gt;...&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tGpsYCDtD877dLudMEN8-30" value="&lt;b&gt;...&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="300" y="130" width="40" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="tGpsYCDtD877dLudMEN8-31" value="&lt;b&gt;Outline-Dom&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tGpsYCDtD877dLudMEN8-31" value="&lt;b&gt;Outline-Dom&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="80" y="130" width="100" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="tGpsYCDtD877dLudMEN8-32" value="&lt;b&gt;Thumbnail-Dom&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tGpsYCDtD877dLudMEN8-32" value="&lt;b&gt;Thumbnail-Dom&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="190" y="130" width="100" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="tGpsYCDtD877dLudMEN8-33" value="&lt;b&gt;@baidu/pdf-viewer-core&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="418" y="502" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tGpsYCDtD877dLudMEN8-34" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;工具中心&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="180" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tGpsYCDtD877dLudMEN8-35" value="&lt;b&gt;EventManager&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="80" y="210" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tGpsYCDtD877dLudMEN8-36" value="&lt;b&gt;Utils&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="80" y="261" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tGpsYCDtD877dLudMEN8-37" value="&lt;b&gt;LinkService&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="80" y="311" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tGpsYCDtD877dLudMEN8-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="10" width="200" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="tGpsYCDtD877dLudMEN8-39" value="&lt;b&gt;DataRangeTransport（切流）&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="80" y="362" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tGpsYCDtD877dLudMEN8-40" value="&lt;b&gt;...&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="80" y="420" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tGpsYCDtD877dLudMEN8-41" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="-60" width="490" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tGpsYCDtD877dLudMEN8-42" value="&lt;b&gt;按需引入&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="410" y="-60" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tGpsYCDtD877dLudMEN8-43" value="&lt;b&gt;render&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-118" y="-50" width="98" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tGpsYCDtD877dLudMEN8-44" value="&lt;b&gt;定位&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="-50" width="98" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tGpsYCDtD877dLudMEN8-45" value="&lt;b&gt;插件系统API&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="96" y="-50" width="98" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tGpsYCDtD877dLudMEN8-46" value="&lt;b&gt;...&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="252" y="-50" width="98" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tGpsYCDtD877dLudMEN8-47" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.703;exitY=1.057;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="385.2199999999998" y="563.9899999999998" as="sourcePoint" />
+            <mxPoint x="385" y="-62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tGpsYCDtD877dLudMEN8-48" value="对外提供API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-273" y="-50" width="108" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tGpsYCDtD877dLudMEN8-49" value="核心模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="230" width="108" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tGpsYCDtD877dLudMEN8-50" value="底层依赖" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="512" width="108" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tGpsYCDtD877dLudMEN8-51" value="核心Package&lt;br&gt;@baidu/pdf-viewer-core" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="-140" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tGpsYCDtD877dLudMEN8-52" value="插件系统&lt;br&gt;@baidu/pdf-viewer-extensions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-145" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tGpsYCDtD877dLudMEN8-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tGpsYCDtD877dLudMEN8-53" target="tGpsYCDtD877dLudMEN8-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tGpsYCDtD877dLudMEN8-53" value="&lt;b&gt;标注&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="423.5" y="26" width="173" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="tGpsYCDtD877dLudMEN8-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-39.5" width="186.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tGpsYCDtD877dLudMEN8-58" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;标注插件&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;标注功能会在画框后对外提供&lt;b&gt;Event&lt;/b&gt;，会主动抛出框在当页PDF画布中的位置，可以与&lt;b&gt;定位&lt;/b&gt;功能联动。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="671.75" y="-38" width="173" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="tGpsYCDtD877dLudMEN8-60" value="&lt;b&gt;全文搜索&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="423.5" y="132.5" width="173" height="58.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tGpsYCDtD877dLudMEN8-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tGpsYCDtD877dLudMEN8-61" target="tGpsYCDtD877dLudMEN8-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tGpsYCDtD877dLudMEN8-61" value="&lt;b&gt;比对&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="423.5" y="242.5" width="173" height="58.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tGpsYCDtD877dLudMEN8-62" value="&lt;b&gt;...&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="421.5" y="410" width="173" height="58.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tGpsYCDtD877dLudMEN8-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="tGpsYCDtD877dLudMEN8-64" source="tGpsYCDtD877dLudMEN8-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="203.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tGpsYCDtD877dLudMEN8-64" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="101.75" width="186.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tGpsYCDtD877dLudMEN8-65" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;全文搜索插件&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;全文搜索功能会根据 keywords 主动触发事件对外抛出文档中匹配到的文案的位置并高亮。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="671.75" y="103.25" width="173" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="tGpsYCDtD877dLudMEN8-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="242.5" width="186.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tGpsYCDtD877dLudMEN8-67" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;多文档比对插件&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;类TextMind中的比对功能。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="671.75" y="244" width="173" height="113" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
